@@ -13,5 +13,6 @@ int main()
     }
 
     cout << sum << endl;
+    cout << "END OF PROGRAM" << endl;
     return 0;
 }
